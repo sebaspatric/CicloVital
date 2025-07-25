@@ -21,7 +21,7 @@ Este proyecto contiene scripts de Python para dibujar mapas conceptuales de las 
 - `mapa_teoria_desarrollo_moral_kohlberg_mejorado.py`: Script para generar el mapa conceptual de la teoría del desarrollo moral de Kohlberg.
 - `mapa_teorias_completo_vertical.py`: Script para generar un mapa conceptual que integra las tres teorías.
 - `mapa_teoria_psicosexual_freud_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosexual de Freud.  
-  ![Mapa Freud](imagenes/freud.png)
+  ![Mapa Freud](freud.png)
 
 - `mapa_teoria_psicosocial_erikson_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosocial de Erikson.  
   ![Mapa Erikson](imagenes/erikson.png)
