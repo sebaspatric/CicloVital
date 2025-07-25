@@ -16,21 +16,25 @@ Este proyecto contiene scripts de Python para dibujar mapas conceptuales de las 
 
 ## Contenido
 
-- `mapa_teoria_psicosexual_freud_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosexual de Freud.
-- `mapa_teoria_psicosocial_erikson_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosocial de Erikson.
-- `mapa_teoria_desarrollo_moral_kohlberg_mejorado.py`: Script para generar el mapa conceptual de la teoría del desarrollo moral de Kohlberg.
-- `mapa_teorias_completo_vertical.py`: Script para generar un mapa conceptual que integra las tres teorías.
+- `mapa_teoria_freud.py`: Script para generar el mapa conceptual de la teoría psicosexual de Freud.
+-   ![Mapa Freud](freud.png)
+- `mapa_teoria_psicosocial.py`: Script para generar el mapa conceptual de la teoría psicosocial de Erikson.
+-   ![Mapa Erikson](erikson.png)
+- `mapa_teoria_desarrollo_moral_kohlberg.py`: Script para generar el mapa conceptual de la teoría del desarrollo moral de Kohlberg.
+-   ![Mapa Kohlberg](kohlberg.png)
+- `mapa_teorias_comparación.py`: Script para generar un mapa conceptual que integra las tres teorías.
+- ![Mapa Completo](/comparacion.png)
 - `mapa_teoria_psicosexual_freud_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosexual de Freud.  
-  ![Mapa Freud](freud.png)
+
 
 - `mapa_teoria_psicosocial_erikson_mejorado.py`: Script para generar el mapa conceptual de la teoría psicosocial de Erikson.  
-  ![Mapa Erikson](imagenes/erikson.png)
+
 
 - `mapa_teoria_desarrollo_moral_kohlberg_mejorado.py`: Script para generar el mapa conceptual de la teoría del desarrollo moral de Kohlberg.  
-  ![Mapa Kohlberg](imagenes/kohlberg.png)
+
 
 - `mapa_teorias_completo_vertical.py`: Script para generar un mapa conceptual que integra las tres teorías.  
-  ![Mapa Completo](imagenes/comparacion.png)
+  
 ## Uso
 
 Para dibujar los mapas conceptuales, simplemente ejecuta los scripts de Python. Se generarán archivos de imagen en formato PNG con los mapas conceptuales.
